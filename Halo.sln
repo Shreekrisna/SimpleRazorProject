@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloWeb", "HaloWeb\HaloWeb.csproj", "{B46939DF-9BE4-4A00-BD16-0251A2325133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaloWeb", "HaloWeb\HaloWeb.csproj", "{B46939DF-9BE4-4A00-BD16-0251A2325133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

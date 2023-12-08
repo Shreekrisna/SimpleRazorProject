@@ -1,0 +1,15 @@
+﻿using HaloWeb.Model;
+using Microsoft.EntityFrameworkCore;
+
+namespace HaloWeb.Data
+{
+    public class ApplicationDbContext : DbContext
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
+        {
+
+        }
+
+        public DbSet<Category> Categories { get; set; } 
+    }
+}
